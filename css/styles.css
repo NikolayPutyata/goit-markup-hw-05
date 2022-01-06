@@ -423,7 +423,7 @@ button {
 
 .footer .container {
 	display: flex;
-	align-items: flex-start;
+	align-items: baseline;
 }
 
 .footer-left {
@@ -461,8 +461,6 @@ a[href="https://goo.gl/maps/Sd4Lendt8BvaJmYn8"]
 }
 
 .footer-right {
-	padding-top: 12px;
-
 	font-weight: 700;
 	font-size: 14px;
 	line-height: 1.14;
